@@ -6,7 +6,7 @@ Assertions: Chai
 Style: BDD
 
 ## QA Challenge file
-The PDF file consist of the challenge is located [here](/test/docs/QA Challenge.pdf)
+The PDF file consist of the challenge is located [here!](/test/docs/QA Challenge.pdf)
 
 ## Setup
 This requires node version v12.16.2 to be installed 
