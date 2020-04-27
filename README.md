@@ -41,14 +41,12 @@ INFO:
 Autosaved the image to
 {directory_path}\qa-task-sennder\test\data\desktop_chrome\fullPage--1050x840.png
 ```
-See Image
-![Image of Yaktocat](test\docs\image_autosave.jpg)
+![See Image](test\docs\image_autosave.jpg)
 
 As per the smoke test plan each expected result is converted into a test case.
 And the steps in between are mentioned as in the test case title to make it understandable.
 
-See Image
-![Image of Yaktocat](test\docs\spec_reporter_results.jpg)
+![See Image](test\docs\spec_reporter_results.jpg)
 
 ## Note:
 Just for the assignment purpose the usrname and password are mentioned in the test case.
